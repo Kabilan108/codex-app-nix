@@ -1,4 +1,6 @@
 {
+  description = "OpenAI Codex Desktop for Linux";
+
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
   outputs =
