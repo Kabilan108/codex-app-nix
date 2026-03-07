@@ -110,7 +110,7 @@
 
       codexDmg = pkgs.fetchurl {
         url = "https://persistent.oaistatic.com/codex-app-prod/Codex.dmg";
-        hash = "sha256-9YUd1WBIM4pJlCc6A41us1/Z3mXUPpSIicJ9DI5cShg=";
+        hash = "sha256-4oKdhkRmwUbvnexeguuwfv+oRHhR3WYbUwewB9rpLDc=";
       };
 
       codex-desktop = pkgs.stdenv.mkDerivation {
